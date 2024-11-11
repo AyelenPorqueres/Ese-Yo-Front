@@ -3,7 +3,7 @@ export default function NavBar() {
     return (
         <div className="navbar bg-[#9D58A6]">
             <div className="flex-1 ml-3 mb-1 px-2 lg:flex-none">
-                <a className=""><img src='./images/ESE-removebg-preview.png' className="h-8"></img></a>
+                <a href='/'><img src='./images/ESE-removebg-preview.png' className="h-8"></img></a>
             </div>
             <div className="flex flex-1 justify-end px-2">
                 <div className="flex items-stretch text-black">
