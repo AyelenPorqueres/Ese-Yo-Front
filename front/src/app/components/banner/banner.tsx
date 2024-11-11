@@ -9,7 +9,7 @@ export function Banner() {
                 <div className="tituloBanner">La diversión es por aquí</div>
                 <div className="subtituloBanner">Creemos en el poder transformador del juego y el deporte, y trabajamos para hacerlo accesible a todos.</div>
                 <button className="botonDonar">DONÁ AHORA</button>
-                <img className="bannerImagen" src="/banner.png" alt="Imagen del banner"></img>
+                <img className="bannerImagen" src="./images/banner.png" alt="Imagen del banner"></img>
             </div>
         </>
     )
