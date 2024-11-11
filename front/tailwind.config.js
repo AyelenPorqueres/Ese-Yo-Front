@@ -7,7 +7,7 @@ module.exports = {
     "./node_module/flowbite/**/*.js",
     // Or if using `src` directory:
     "./src/**/*.{js,ts,jsx,tsx,mdx}",
-    flowbite.content(),
+    
   ],
   theme: {
     extend: {},
