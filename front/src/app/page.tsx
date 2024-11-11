@@ -1,4 +1,5 @@
 'use client'
+import AccionesInicio from "./components/accionesInicio/accionesInicio";
 import { Banner } from "./components/banner/banner";
 import NavBar from "./components/nav/nav";
 
@@ -7,6 +8,7 @@ export default function Home() {
     <div className="bg-white">
       <NavBar />
       <Banner/>
+      <AccionesInicio />
     </div>
   );
 }
