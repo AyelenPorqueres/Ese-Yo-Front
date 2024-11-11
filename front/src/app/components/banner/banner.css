@@ -1,6 +1,6 @@
 .bannerContainer{
     width: 100%;
-    height: 430px;
+    height: 520px;
     display: flex;
     align-items: center;
     flex-direction:column;
@@ -8,6 +8,7 @@
     text-align: center;
     position: relative; 
     overflow: hidden; 
+    padding-top: 30px;
 }
 
 .tituloBanner{
@@ -25,7 +26,7 @@
 
 .bannerImagen{
     width: 100%;
-    height: 450px;
+    height: 520px;
     position: absolute;
     top: 0;
     left: 0;
