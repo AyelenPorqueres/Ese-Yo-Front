@@ -1,0 +1,35 @@
+.fundacionContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+
+.fundacionTexto {
+    text-align: center;
+    margin-top: -345px;
+    margin-right: 50px;
+    padding: 20px;
+    max-width: 80%;
+}
+
+.fundacionTitulo {
+    font-size: 42px;
+    font-weight: bold;
+}
+
+.fundacionTitulo:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.fundacionDescripcion {
+    font-size: 23px;
+    max-width: 1000px;
+}
+
+.fundacionImagen {
+    width: 100%;
+    height: auto;
+    max-height: 520px;
+}
