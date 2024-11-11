@@ -1,9 +1,10 @@
-import styles from "./page.module.css";
+'use client'
+import NavBar from "./components/nav/nav";
 
 export default function Home() {
   return (
-    <div>
-      
+    <div className="bg-white">
+      <NavBar />
     </div>
   );
 }
