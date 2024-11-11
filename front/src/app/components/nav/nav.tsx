@@ -14,7 +14,7 @@ export default function NavBar() {
                             </a>  
                         <ul
                             tabIndex={0}
-                            className="menu dropdown-content bg-white rounded-box p-2 shadow">
+                            className="menu dropdown-content bg-white rounded-box p-2 shadow z-10">
                             <li><a href="/quienesSomos#laFundacion">La fundación</a></li>
                             <li><a href="/quienesSomos#equipo">Equipo</a></li>
                             <li><a href="/quienesSomos#mision">Misión, visión y valores</a></li>
@@ -26,7 +26,7 @@ export default function NavBar() {
                             </a>                 
                         <ul
                             tabIndex={0}
-                            className="menu dropdown-content bg-white rounded-box p-2 shadow">
+                            className="menu dropdown-content bg-white rounded-box p-2 shadow z-10">
                             <li><a href="/queHacemos#nuestraLabor">Nuestra labor</a></li>
                             <li><a href="/queHacemos#acciones">Acciones</a></li>
                             <li><a href="/queHacemos#ig">Instagram</a></li>
