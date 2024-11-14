@@ -13,7 +13,7 @@ export default function AccionesInicio() {
                 <div className=" title font-semibold text-4xl text-center text-[#27B015] pb-16">Conoce nuestras acciones</div>
                 <div className="w-full flex justify-around p-10">
                     {cards.map((card) => (
-                        <div className="card card-compact w-96 shadow-[4px_4px_5px_3px_#fcf479]">
+                        <div key={card.id} className="card card-compact w-96 shadow-[4px_4px_5px_3px_#fcf479]" >
                         <figure>
                             <img
                                 src={`${card.img}`}
