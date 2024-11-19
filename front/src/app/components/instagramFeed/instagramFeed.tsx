@@ -1,6 +1,5 @@
 'use client';
 import React from 'react';
-import "./instagramFeed.css";
 
 export function InstagramFeed() {
     return (
