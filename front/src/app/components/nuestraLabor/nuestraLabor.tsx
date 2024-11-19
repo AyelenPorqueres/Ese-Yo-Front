@@ -17,9 +17,9 @@ export function NuestraLabor() {
     <br/><br/>Trabajamos en colaboración con instituciones educativas, organizaciones comunitarias y otros actores clave para maximizar nuestro impacto y llegar a más niños y niñas en situación de vulnerabilidad.</div>
     <br/>
    <div className="flex ...   ml-[242px] gap-28 size-96">
-    <img className="flex-1 ...  border-2 border-black  rounded-lg " src="./images/ninos-basquet.jpeg" alt="Imagen top nuestra labor"></img>
-    <img className="flex-1 ...  border-2 border-black rounded-lg " src="./images/ninos-soga.jpg" alt="Imagen top nuestra labor"></img>
-    <img className="flex-1 ...  border-2 border-black rounded-lg" src="./images/ninos-tenis.jpg" alt="Imagen top nuestra labor"></img>
+    <img className="flex-1 ... rounded-md shadow-xl  shadow-[#1fa65a9c]" src="./images/ninos-basquet.jpeg" alt="Imagen top nuestra labor"></img>
+    <img className="flex-1 ... rounded-md shadow-xl  shadow-[#1fa65a9c]" src="./images/ninos-soga.jpg" alt="Imagen top nuestra labor"></img>
+    <img className="flex-1 ... rounded-md shadow-xl  shadow-[#1fa65a9c]" src="./images/ninos-tenis.jpg" alt="Imagen top nuestra labor"></img>
     </div>
     <br/><br/>
     
